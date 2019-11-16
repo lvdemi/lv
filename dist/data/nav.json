@@ -1,0 +1,142 @@
+{ 
+    "banner":[
+        {
+            "img":"images/1.jpg",
+            "url":"https://img22.iblimg.com/market-3/images/activity/1492715753.jpg"
+        },
+        {
+            "img":"images/2.jpg",
+            "url":"https://img22.iblimg.com/market-3/images/activity/294521100.jpg"
+        },
+        {
+            "img":"images/3.jpg",
+            "url":"https://img23.iblimg.com/market-3/images/activity/2068876449.jpg"
+        },
+        {
+            "img":"images/4.jpg",
+            "url":"https://img22.iblimg.com/market-3/images/activity/1915499547.jpg"
+        }],
+        "sideNav":[
+            {"title":"百联进购 全球购",
+                "child":[{"title":"美妆护肤 >"
+                },{"title":"面膜"}
+                ,{"title":"乳液/面霜"},
+                {"title":"化妆水"},
+                {"title":"护肤套装"},
+                {"title":"眼部护理"},
+                {"title":"面部精华"},
+                {"title":"美容仪"},
+                {"title":"洁面"},
+                {"title":"卸妆"},
+                {"title":"个人护理 >"},
+                {"title":"洗发水"},
+                {"title":"护发素"},
+                {"title":"沐浴露"},
+                {"title":"漱口水"},
+                {"title":"牙膏"},
+                {"title":"身体乳"},
+                {"title":"护手霜"},
+                {"title":"身体护理"},
+                {"title":"卫生巾"},
+                {"title":"进口美食 >"},
+                {"title":"坚果"},
+                {"title":"果干"},
+                {"title":"膨化"},
+                {"title":"糖果"},
+                {"title":"海苔"},
+                {"title":"饼干"},
+                {"title":"曲奇"},
+                {"title":"威化"},
+                {"title":"橄榄油"},
+                {"title":"乳品冲饮 >"},
+                {"title":"牛奶"},
+                {"title":"全脂"},
+                {"title":"低脂"},
+                {"title":"饮料"},
+                {"title":"成人奶粉"},
+                {"title":"营养谷物"},
+                {"title":"咖啡"},
+                {"title":"水"},
+                {"title":"碳酸"},
+                {"title":"家庭清洁 >"},
+                {"title":"洗衣液"},
+                {"title":"洗衣凝珠"},
+                {"title":"洗衣粉"},
+                {"title":"洗洁精"},
+                {"title":"空气清新"},
+                {"title":"油污净"},
+                {"title":"马桶"},
+                {"title":"清洁剂"},
+                {"title":"卫浴"},
+                {"title":"进口母婴 >"},
+                {"title":"奶粉"},
+                {"title":"辅食"},
+                {"title":"纸尿裤"},
+                {"title":"奶瓶"},
+                {"title":"奶嘴"},
+                {"title":"水杯"},
+                {"title":"餐具"},
+                {"title":"洗发沐"},
+                {"title":"口腔"},
+                {"title":"品质家居 >"},
+                {"title":"吸尘器"},
+                {"title":"咖啡机"},
+                {"title":"保温杯"},
+                {"title":"榨汁机"},
+                {"title":"滤水壶"},
+                {"title":"锅具"},
+                {"title":"刀具"},
+                {"title":"乳胶枕"},
+                {"title":" "},
+                {"title":"鞋靴箱包 >"},
+                {"title":" "},
+                {"title":" "},
+                {"title":" "},
+                {"title":" "},
+                {"title":" "},
+                {"title":" "},
+                {"title":" "},
+                {"title":" "},{"title":" "},{"title":"腕表饰品 >"},{"title":" "}
+
+
+
+                ]},
+             {"title":"生鲜食品",
+                "child":[{"title":"个人护理 >"},
+                    {"title":"面膜"},
+                    {"title":"洗发水"},
+                    {"title":"护发素"},
+                    {"title":"沐浴露"},
+                    {"title":"漱口水"},
+                    {"title":"牙膏"},
+                    {"title":"卫生巾"},
+                    {"title":"身体护理"}]},
+             {"title":"食品粮酒 酒水冲饮",
+              "child":[{"title":"面膜"}]
+                    },       
+             {"title":"美容护理",
+              "child":[{"title":"面膜"}]
+                    },
+             {"title":"餐厨用具 家居家装",
+              "child":[{"title":"面膜"}]
+                    },
+             { "title":"母婴玩具",
+              "child":[{"title":"面膜"}]
+                    },
+             {"title":"家清 纸品 一次性",
+              "child":[{"title":"面膜"}]
+                    },
+             {"title":"女装男装",
+              "child":[{"title":"面膜"}]
+                    },
+             {"title":"家用电器",
+              "child":[{"title":"面膜"}]
+                    },
+            {"title":"运动户外 汽车用品",
+              "child":[{"title":"面膜"}]},
+            {"title":"营养保健 第一医药",
+              "child":[{"title":"面膜"}]},
+            {"title":"礼品卡 充值 图书",
+                "child":[{"title":"面膜"}]}
+]}
+

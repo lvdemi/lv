@@ -1,0 +1,79 @@
+.helpnav-box {
+  height: 218px;
+  background: #f3f3f3; }
+  .helpnav-box .helpnav {
+    width: 1190px;
+    height: 218px;
+    background: #f3f3f3;
+    margin: 0 auto;
+    padding: 24px 0;
+    clear: both; }
+    .helpnav-box .helpnav .helpnav-list {
+      float: left;
+      width: 200px;
+      height: 170px;
+      margin: 0 19px;
+      display: inline-block; }
+      .helpnav-box .helpnav .helpnav-list .helpnav-title {
+        height: 40px;
+        line-height: 40px;
+        color: #000;
+        font-size: 16px; }
+        .helpnav-box .helpnav .helpnav-list .helpnav-title i {
+          display: inline-block;
+          float: left;
+          margin-right: 15px;
+          width: 40px;
+          height: 40px; }
+        .helpnav-box .helpnav .helpnav-list .helpnav-title .footic1 {
+          background: url(../images/footer1200_sprite.png) no-repeat 0 0; }
+        .helpnav-box .helpnav .helpnav-list .helpnav-title .footic2 {
+          background: url(../images/footer1200_sprite.png) no-repeat 0 -40px; }
+        .helpnav-box .helpnav .helpnav-list .helpnav-title .footic3 {
+          background: url(../images/footer1200_sprite.png) no-repeat 0 -80px; }
+        .helpnav-box .helpnav .helpnav-list .helpnav-title .footic4 {
+          background: url(../images/footer1200_sprite.png) no-repeat 0 -120px; }
+        .helpnav-box .helpnav .helpnav-list .helpnav-title .footic5 {
+          background: url(../images/footer1200_sprite.png) no-repeat 0 -160px; }
+      .helpnav-box .helpnav .helpnav-list ul {
+        margin-left: 54px;
+        font-size: 14px;
+        color: #555; }
+        .helpnav-box .helpnav .helpnav-list ul li {
+          padding: 3px 0px; }
+          .helpnav-box .helpnav .helpnav-list ul li a:hover {
+            color: #e6133c;
+            text-decoration: underline; }
+
+/* bottom-nav */
+.bottom-box {
+  background: #f3f3f3;
+  height: 168px;
+  padding: 15px 0 0; }
+  .bottom-box .bottom-nav {
+    height: 168px;
+    width: 1190px;
+    margin: 0 auto; }
+    .bottom-box .bottom-nav div {
+      line-height: 24px;
+      text-align: center;
+      color: #999;
+      font-size: 12px; }
+      .bottom-box .bottom-nav div a {
+        color: #333; }
+    .bottom-box .bottom-nav .drug-message {
+      padding: 5px 0 0;
+      color: #666; }
+    .bottom-box .bottom-nav .police {
+      text-align: center;
+      padding: 10px 0 20px;
+      color: #999; }
+      .bottom-box .bottom-nav .police a {
+        margin-right: 10px; }
+      .bottom-box .bottom-nav .police img {
+        width: 20px;
+        height: 20px;
+        padding: 0 5px; }
+      .bottom-box .bottom-nav .police span {
+        margin: 0 0 0 5px;
+        color: #999; }
